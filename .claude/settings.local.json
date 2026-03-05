@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:github.com)",
+      "Bash(npx skills add https://github.com/fanqingxuan/awesome-skills.git 2>&1 | tee /tmp/skills-add-output.txt)",
+      "Bash(du -sh .git && git count-objects -vH)"
+    ]
+  }
+}
