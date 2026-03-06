@@ -39,6 +39,29 @@ npx skills add https://github.com/fanqingxuan/awesome-skills
 | **laravel12** | Laravel 12 框架开发助手 |
 | **eino** | Eino LLM/AI 应用开发框架助手（Golang） |
 
+## 🌟 第三方优秀技能
+
+| 技能名称 | 描述 | 安装方式 |
+|---------|------|---------|
+| **GoFrame** | GoFrame 企业级 Go 开发框架 | `npx skills add github.com/gogf/skills` |
+| **Vercel Skills** | Vercel Labs 官方技能集 | `npx skills add vercel-labs/skills` |
+| **Superpowers** | Obra 超能力技能集 | `npx skills add obra/superpowers` |
+| **Frontend Design** | Anthropic 官方前端设计技能 | `npx skills add https://github.com/anthropics/skills --skill frontend-design` |
+| **Skill Creator** | Anthropic 官方技能创建工具 | `npx skills add https://github.com/anthropics/skills --skill skill-creator` |
+
+## 🔧 相关工具
+
+### OpenSkills
+
+[OpenSkills](https://github.com/numman-ali/openskills) - 为不同的 AI 智能体安装 skill 的通用包管理工具。
+
+支持为多种 AI 智能体（Claude、ChatGPT、Cursor 等）统一管理和安装技能包。
+
+## 🌐 资源网站
+
+- [SkillsMP](https://skillsmp.com/) - Skill 资源市场
+- [Skills.sh](https://skills.sh/) - Skill 资源平台
+
 ## 📄 License
 
 MIT License
