@@ -38,6 +38,7 @@ npx skills add https://github.com/fanqingxuan/awesome-skills
 | **webman** | Webman 框架开发助手 |
 | **laravel12** | Laravel 12 框架开发助手 |
 | **eino** | Eino LLM/AI 应用开发框架助手（Golang） |
+| **code-simplifier** | 代码简化专家 - 提升代码清晰度、一致性和可维护性 |
 
 ## 🌟 第三方优秀技能
 
