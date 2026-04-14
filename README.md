@@ -50,6 +50,9 @@ npx skills add https://github.com/fanqingxuan/awesome-skills
 | **Superpowers** | Obra 超能力技能集 | `npx skills add obra/superpowers` |
 | **Frontend Design** | Anthropic 官方前端设计技能 | `npx skills add https://github.com/anthropics/skills --skill frontend-design` |
 | **Skill Creator** | Anthropic 官方技能创建工具 | `npx skills add https://github.com/anthropics/skills --skill skill-creator` |
+| **Karpathy Guidelines** | Andrej Karpathy AI 行为指南 | `npx skills add https://github.com/forrestchang/andrej-karpathy-skills --skill karpathy-guidelines` |
+| **Planning with Files** | OthmanAdi 文件规划技能 | `npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g
+` |
 
 ## 🔧 相关工具
 

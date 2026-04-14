@@ -3,7 +3,10 @@
     "allow": [
       "WebFetch(domain:github.com)",
       "Bash(npx skills add https://github.com/fanqingxuan/awesome-skills.git 2>&1 | tee /tmp/skills-add-output.txt)",
-      "Bash(du -sh .git && git count-objects -vH)"
+      "Bash(du -sh .git && git count-objects -vH)",
+      "Bash(gh repo view OthmanAdi/planning-with-files --json name,description,url)",
+      "Bash(gh api repos/forrestchang/andrej-karpathy-skills/contents/karpathy-guidelines --jq '.[] | {name, path}' 2>/dev/null || echo \"Need to check karpathy-guidelines differently\")",
+      "WebSearch"
     ]
   }
 }
