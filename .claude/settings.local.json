@@ -6,7 +6,24 @@
       "Bash(du -sh .git && git count-objects -vH)",
       "Bash(gh repo view OthmanAdi/planning-with-files --json name,description,url)",
       "Bash(gh api repos/forrestchang/andrej-karpathy-skills/contents/karpathy-guidelines --jq '.[] | {name, path}' 2>/dev/null || echo \"Need to check karpathy-guidelines differently\")",
-      "WebSearch"
+      "WebSearch",
+      "Bash(curl -sI https://download.workerman.net/php/php-8.4-mac-x86_64.tar.gz 2>/dev/null | head -5 || echo \"无法访问该URL\")",
+      "Bash(curl -sI https://download.workerman.net/php/php-8.4-mac-aarch64.tar.gz 2>/dev/null | head -5)",
+      "WebFetch(domain:www.workerman.net)",
+      "Read(//private/tmp/**)",
+      "Bash(curl -sL https://download.workerman.net/php/php-8.4-mac-x86_64.tar.gz -o php-test.tar.gz)",
+      "Bash(tar -tf php-test.tar.gz)",
+      "Bash(curl -sL \"https://www.workerman.net/download/php\" 2>/dev/null | head -100)",
+      "Bash(curl -sI \"https://github.com/walkor/workerman/releases/latest\" 2>/dev/null | grep -i location)",
+      "Bash(curl -sI \"https://download.workerman.net/php/php-8.4-mac-x86_64.tar.gz\" 2>/dev/null | head -3)",
+      "Bash(curl -sL \"https://www.workerman.net/install-php-and-composer\" -o /tmp/install-php-and-composer)",
+      "Read(//tmp/**)",
+      "Bash(cd /tmp && rm -f php*.tar.gz && curl -sI \"https://download.workerman.net/php/php-8.4-mac-x86_64.tar.gz\" | head -5)",
+      "Bash(cd /tmp && curl -sL \"https://download.workerman.net/php/php-8.3-mac-x86_64.tar.gz\" -o php.tar.gz && tar -tvf php.tar.gz)",
+      "Bash(cd /tmp && rm -rf test_dir && mkdir test_dir && tar -xf php.tar.gz -C test_dir && ls -la test_dir/)",
+      "Bash(cd /tmp && rm -f php8.4.tar.gz && curl -sI \"https://download.workerman.net/php/php-8.4-mac-x86_64.tar.gz\" | grep HTTP && echo \"---\" && curl -sL \"https://download.workerman.net/php/php-8.4-mac-x86_64.tar.gz\" -o php8.4.tar.gz && file php8.4.tar.gz && tar -tvf php8.4.tar.gz 2>&1 | head -3)",
+      "Bash(curl -sI \"https://download.workerman.net/php/php-8.3-mac-x86_64.tar.gz\" | head -1)",
+      "Bash(curl -sI \"https://download.workerman.net/php/php-8.3-mac-x86_64.tar.gz\" 2>&1 | head -3)"
     ]
   }
 }
