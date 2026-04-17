@@ -51,8 +51,9 @@ npx skills add https://github.com/fanqingxuan/awesome-skills
 | **Frontend Design** | Anthropic 官方前端设计技能 | `npx skills add https://github.com/anthropics/skills --skill frontend-design` |
 | **Skill Creator** | Anthropic 官方技能创建工具 | `npx skills add https://github.com/anthropics/skills --skill skill-creator` |
 | **Karpathy Guidelines** | Andrej Karpathy AI 行为指南 | `npx skills add https://github.com/forrestchang/andrej-karpathy-skills --skill karpathy-guidelines` |
-| **Planning with Files** | OthmanAdi 文件规划技能 | `npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g
-` |
+| **Planning with Files** | OthmanAdi 文件规划技能 | `npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g` |
+| **gsd** | Get Shit Done 高效任务完成技能 | `npx skills add https://github.com/ctsstc/get-shit-done-skills --skill gsd` |
+| **git-commit** | Git 提交信息生成技能 | `npx skills add https://github.com/github/awesome-copilot --skill git-commit` |
 
 ## 🔧 相关工具
 

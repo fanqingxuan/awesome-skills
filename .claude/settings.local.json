@@ -23,7 +23,12 @@
       "Bash(cd /tmp && rm -rf test_dir && mkdir test_dir && tar -xf php.tar.gz -C test_dir && ls -la test_dir/)",
       "Bash(cd /tmp && rm -f php8.4.tar.gz && curl -sI \"https://download.workerman.net/php/php-8.4-mac-x86_64.tar.gz\" | grep HTTP && echo \"---\" && curl -sL \"https://download.workerman.net/php/php-8.4-mac-x86_64.tar.gz\" -o php8.4.tar.gz && file php8.4.tar.gz && tar -tvf php8.4.tar.gz 2>&1 | head -3)",
       "Bash(curl -sI \"https://download.workerman.net/php/php-8.3-mac-x86_64.tar.gz\" | head -1)",
-      "Bash(curl -sI \"https://download.workerman.net/php/php-8.3-mac-x86_64.tar.gz\" 2>&1 | head -3)"
+      "Bash(curl -sI \"https://download.workerman.net/php/php-8.3-mac-x86_64.tar.gz\" 2>&1 | head -3)",
+      "Bash(chmod +x /Users/json/code/awesome-skills/install-skills.sh)",
+      "Bash(./install-skills.sh -h)",
+      "Bash(npx -y skills --help 2>/dev/null || npx -y openskills --help 2>/dev/null || echo \"Command not found\")",
+      "Bash(npx -y skills list -g --json 2>/dev/null | head -50 || echo \"No global skills\")",
+      "Bash(npx -y skills list --json 2>/dev/null | head -50 || echo \"No project skills\")"
     ]
   }
 }
