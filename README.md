@@ -45,6 +45,7 @@ npx skills add https://github.com/fanqingxuan/awesome-skills
 
 | 技能名称 | 描述 | 安装方式 |
 |---------|------|---------|
+| **agent-skills** |addyosmani Agent Skills 集合 | `npx skills add addyosmani/agent-skills` |
 | **GoFrame** | GoFrame 企业级 Go 开发框架 | `npx skills add github.com/gogf/skills` |
 | **Vercel Skills** | Vercel Labs 官方技能集 | `npx skills add vercel-labs/skills` |
 | **Superpowers** | Obra 超能力技能集 | `npx skills add obra/superpowers` |
