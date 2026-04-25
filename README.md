@@ -68,6 +68,7 @@ npx skills add https://github.com/fanqingxuan/awesome-skills
 
 - [SkillsMP](https://skillsmp.com/) - Skill 资源市场
 - [Skills.sh](https://skills.sh/) - Skill 资源平台
+- [Skills宝](https://skilery.com/) - 中文 Skills 搜索与安装入口，支持 Claude Code、OpenCode、Cursor 等多平台技能发现
 - [Anthropic Official Skills](https://github.com/anthropics/skills/tree/main/skills) - Anthropic 官方技能仓库
 
 ## 📄 License
