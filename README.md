@@ -40,6 +40,7 @@ npx skills add https://github.com/fanqingxuan/awesome-skills
 | **eino** | Eino LLM/AI 应用开发框架助手（Golang） |
 | **gorm** | GORM (Go ORM) 开发助手 |
 | **code-simplifier** | 代码简化专家 - 提升代码清晰度、一致性和可维护性 |
+- [AI Delivery Spec](https://github.com/franklinxkk/ai-delivery-spec) - Product-side SDD framework: PRDs, IA skeletons, FRR records, AC-YAML, coding-agent delivery. v4.9.2
 
 ## 🌟 第三方优秀技能
 
