@@ -45,7 +45,7 @@ npx skills add https://github.com/fanqingxuan/awesome-skills
 
 | 技能名称 | 描述 | 安装方式 |
 |---------|------|---------|
-| **agent-skills** |addyosmani Agent Skills 集合 | `npx skills add addyosmani/agent-skills` |
+| **agent-skills** | Addy Osmani Agent Skills 集合 | `npx skills add addyosmani/agent-skills` |
 | **GoFrame** | GoFrame 企业级 Go 开发框架 | `npx skills add github.com/gogf/skills` |
 | **Vercel Skills** | Vercel Labs 官方技能集 | `npx skills add vercel-labs/skills` |
 | **Superpowers** | Obra 超能力技能集 | `npx skills add obra/superpowers` |
@@ -55,6 +55,7 @@ npx skills add https://github.com/fanqingxuan/awesome-skills
 | **Planning with Files** | OthmanAdi 文件规划技能 | `npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g` |
 | **gsd** | Get Shit Done 高效任务完成技能 | `npx skills add https://github.com/ctsstc/get-shit-done-skills --skill gsd` |
 | **git-commit** | Git 提交信息生成技能 | `npx skills add https://github.com/github/awesome-copilot --skill git-commit` |
+| **x-twitter-scraper** | Xquik 的 X/Twitter 数据 API、MCP 和 Webhooks 工作流技能。独立第三方服务，与 X Corp. 无关联。 | `npx skills@1.5.3 add Xquik-dev/x-twitter-scraper` |
 
 ## 🔧 相关工具
 
