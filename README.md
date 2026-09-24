@@ -46,6 +46,7 @@ npx skills add https://github.com/fanqingxuan/awesome-skills
 | 技能名称 | 描述 | 安装方式 |
 |---------|------|---------|
 | **agent-skills** |addyosmani Agent Skills 集合 | `npx skills add addyosmani/agent-skills` |
+| **[Agent QA Authoring](https://github.com/vostride/agent-qa/blob/main/skills/agent-qa-authoring/SKILL.md)** | 自我改进的 QA 智能体：借助 MCP/CLI 编写和验证 Web、移动端自然语言测试；需先配置 Agent QA | `npx skills add https://github.com/vostride/agent-qa --skill agent-qa-authoring` |
 | **GoFrame** | GoFrame 企业级 Go 开发框架 | `npx skills add github.com/gogf/skills` |
 | **Vercel Skills** | Vercel Labs 官方技能集 | `npx skills add vercel-labs/skills` |
 | **Superpowers** | Obra 超能力技能集 | `npx skills add obra/superpowers` |
