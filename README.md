@@ -55,6 +55,7 @@ npx skills add https://github.com/fanqingxuan/awesome-skills
 | **Planning with Files** | OthmanAdi 文件规划技能 | `npx skills add OthmanAdi/planning-with-files --skill planning-with-files -g` |
 | **gsd** | Get Shit Done 高效任务完成技能 | `npx skills add https://github.com/ctsstc/get-shit-done-skills --skill gsd` |
 | **git-commit** | Git 提交信息生成技能 | `npx skills add https://github.com/github/awesome-copilot --skill git-commit` |
+| **[reverse-engineer-anything](https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything)** | 已发布二进制与 JavaScript/Electron 应用逆向分析；需另装 REA，原生深度分析需自备 Hopper、Ghidra 或 IDA | `npx skills add https://github.com/morluto/rea/tree/main/.agents/skills/reverse-engineer-anything --skill reverse-engineer-anything` |
 
 ## 🔧 相关工具
 
